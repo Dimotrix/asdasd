@@ -1,5 +1,5 @@
-getgenv().RiskItAll = true
 getgenv().BuyMythicalChest = true
+getgenv().BuyLegendaryChest = true
 getgenv().StopOnShop = false
 getgenv().MythicalCostCap = 990000
 getgenv().TweenSpeed = 90
